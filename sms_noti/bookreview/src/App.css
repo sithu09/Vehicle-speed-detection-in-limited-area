@@ -1,0 +1,44 @@
+.title{
+background: #9370DB;
+margin-left: 25%;
+margin-right: 20%;
+text-align: center;
+font-size: 18px;
+
+}
+.report{
+margin-left: 25%;
+margin-right: 20%;
+}
+
+.background{
+    background: #E6E6FA;
+    height: 100%; 
+    width: 100%;
+   
+}
+
+.title-bound{
+ background-color: #e5e7e9;
+    height:465px;
+    text-align: center;
+    font-style: bold;
+    padding-bottom: 20px;
+}
+.head{
+    background-color: #e5e7e9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+   font-style: inherit;
+}
+.showpage{
+    background-color: #e5e7e9;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right: 15px;
+}
+.all{
+    margin-left: 300px;
+}

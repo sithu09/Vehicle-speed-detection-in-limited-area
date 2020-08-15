@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/57614002/error-dlib-19-8-1-cp36-cp36m-win-amd64-whl-is-not-a-supported-wheel-on-this-pla
